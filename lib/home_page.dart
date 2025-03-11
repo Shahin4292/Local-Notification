@@ -39,7 +39,8 @@ class _NotificationScreenState extends State<NotificationScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-          title: Text('FCM Token')),
+        centerTitle: true,
+          title: Text('Generated FCM')),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
         child: Column(
