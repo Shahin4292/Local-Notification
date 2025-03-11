@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708018380779",
+    "project_id": "localnotification-cc760",
+    "storage_bucket": "localnotification-cc760.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708018380779:android:2c2b7d714656ca8be203ae",
+        "android_client_info": {
+          "package_name": "com.example.notification_local_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbHR4lVzRabf0Dxkumka6YoshU4CrQ4Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
